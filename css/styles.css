@@ -1,0 +1,62 @@
+body {
+	background-color: #E6FDFF;
+}
+
+.website_name{
+	font-family: "Indie Flower", sans-serif;
+	font-size: 80px;
+	white-space: nowrap;
+}
+
+.project-img{
+	width: 60%;
+	margin-left: 5%;
+	padding: 10px;
+}
+
+
+.dots{
+	font-family: "Open Sans Condensed";
+	color: #737373;
+	font-size: 22px;
+	/*word-wrap: normal;*/
+	border-style: dotted;
+	border-color: #CCCCCC;
+	width: 60%;
+	margin-left: 5%;
+	padding: 10px;
+	background-color: #f9fafb;
+}
+
+h1 {
+	font-family: "Slabo 27px";
+	font-size: 35px;
+	width: 20%;
+}
+
+h2 {
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+.projects{
+	font-size: 55px;
+	color:#292F36 ;
+	font-family: Verdana;
+}
+
+.box {
+	width: 600px;
+	height: 300px;
+}
+
+div {
+	font-family: "Open Sans Condensed";
+	color: #737373;
+	font-size: 22px;
+	word-wrap: normal;
+	border-style: dotted;
+	border-color: #CCCCCC;
+	width: 60%;
+	margin-left: 5%;
+	padding: 10px;
+}

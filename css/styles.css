@@ -44,10 +44,30 @@ h2 {
 	font-family: Verdana;
 }
 
-.box {
+#box {
+	width: 600px;
+	height: 300px;
+
+	
+
+	#box ul li {
+
+	}
+}
+
+/*.box2 {
 	width: 600px;
 	height: 300px;
 }
+.box3 {
+	width: 600px;
+	height: 300px;
+}
+.box4 {
+	width: 600px;
+	height: 300px;
+}*/
+
 
 div {
 	font-family: "Open Sans Condensed";
@@ -59,4 +79,10 @@ div {
 	width: 60%;
 	margin-left: 5%;
 	padding: 10px;
+}
+
+.hashing{
+	width: 60%;
+	height:300px;
+	overflow: scroll;
 }

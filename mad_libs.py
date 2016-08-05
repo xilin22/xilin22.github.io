@@ -1,0 +1,25 @@
+name = input("Input a girl's name: ")
+message1 = name + " fell into a wet well."
+physical_a = input("Input a physical activity: ")
+message2 = "She was " + physical_a + " and that made her smell."
+magical_c = input("Input a magical creature: ")
+message3 = "She met a " + magical_c + " in the hole."
+friend = input("Input a friend's name: ")
+message4 = "It was crazy because " + friend + " had a mole."
+object1 =input("Input a object: ")
+message5 = "In attempt to touch the mole, she used a " + object1 + "."
+cross_track = input("Input a cross track activity in past tense: ")
+message6 = "She " + cross_track + " as fast as she could."
+object2 = input("Input an object in your room: ")
+message7 = "Trying to climb up the " + object2 + "."
+verb = input("Input a verb in past tense: ")
+message8 = "Now she " + verb + "."
+old_creature = input ("Input an old creature: ")
+message9 = "The " + old_creature + " hit her with a wet broom."
+place = input ("Input your favorite place: ")
+message10 = "She woke up in " + place + " with no memory."
+animal = input ("Input an animal you're scared of: ")
+message11 = "Noticed that she was inside a " + animal + "."
+state_of_being = input("Input a state of being in the past: ")
+message12 = "She freaked out and then " + state_of_being + "."
+print (message1, message2, message3, message4, message5, message6, message7, message8, message9, message10, message11, message12) 
